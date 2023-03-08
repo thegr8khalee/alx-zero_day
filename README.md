@@ -1,2 +1,2 @@
 My first readme
-lol
+okay, updated
